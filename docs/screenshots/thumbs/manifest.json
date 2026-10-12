@@ -225,11 +225,11 @@
     {
       "thumb": "medallion.webp",
       "source": "docs/screenshots/medallion.png",
-      "source_sha256": "047e920accd86f9f2e83f56de781ab197b3d545cd6b26c244f770fc835e64194",
+      "source_sha256": "9daeb1176ff7478c6fc30067b20866579f88eef4b53a0e57f21268ed65c58868",
       "width": 600,
       "height": 316,
       "quality": 82,
-      "thumb_sha256": "0f4a4226a38751e40ba2e4d010af809a22cfd6f1d044c9461294186087d837db"
+      "thumb_sha256": "c08255f492f317ea18b89d24ef28350acc7f62d5519945a2dd6501a97b8f25ff"
     },
     {
       "thumb": "nested.webp",
